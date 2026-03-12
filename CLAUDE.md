@@ -25,3 +25,5 @@
 - Dev server: npm run dev
 - Build: npm run build
 - Lint: npm run lint
+## Progress Tracking
+Before starting any task, read PROGRESS.md. Before finishing, update PROGRESS.md with what you did, what files you created or modified, and any decisions you made.
