@@ -1,0 +1,2 @@
+// Payments feature module
+export {};
