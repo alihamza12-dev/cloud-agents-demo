@@ -1,2 +1,12 @@
 // Auth feature module
-export {};
+export type {
+  IValidationResult,
+  IPasswordStrengthResult,
+  IFieldValidationRule,
+} from './types';
+
+export {
+  validateEmail,
+  checkPasswordStrength,
+  validateRequiredFields,
+} from './utils/formValidation';
